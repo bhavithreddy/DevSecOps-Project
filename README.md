@@ -1,4 +1,8 @@
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f43462f3-1b7a-4837-84d6-2bd42991bcde" />
+<img width="1618" height="332" alt="image" src="https://github.com/user-attachments/assets/d7e64a9c-8dbd-4622-acb5-1bf9fb0efa6c" />
+<img width="1462" height="347" alt="image" src="https://github.com/user-attachments/assets/77fcbf78-a25d-44f0-8ffc-4be6757a8183" />
+
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
